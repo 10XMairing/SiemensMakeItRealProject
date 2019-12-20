@@ -25,7 +25,7 @@ Built using `Node.js` and `Typescript` using  *MVC* Architecture and MongoDb
 
 Built using `React`
 
-[GITHUB SOURCE CODE](https://github.com/ranitnathRN8/agtechreact)
+[GITHUB Source Code](https://github.com/ranitnathRN8/agtechreact)
 
 [DEMO LINK](http://agtechsiemens.surge.sh/)
 
